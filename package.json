@@ -1,0 +1,71 @@
+{
+  "_from": "homebridge-bvera",
+  "_id": "homebridge-bvera@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-VK1L8QOFsayn9t9FVA/En0jHw1OHH2YAZ0kSTsX3z0lR5fXXC0SW3SKQQspW5Ic1dqN1Bea2sYvyoPPwZD4XuQ==",
+  "_location": "/homebridge-bvera",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "rudders",
+    "email": "bertinjacobs@gmail.com"
+  },
+  "_npmVersion": "2.10.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "homebridge-bvera",
+    "name": "homebridge-bvera",
+    "escapedName": "homebridge-bvera",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/homebridge-bvera/-/homebridge-bvera-0.1.0.tgz",
+  "_shasum": "4c18bd6f3c3193142222f1d39e01df8f0ec2ff05",
+  "_spec": "homebridge-bvera",
+  "_where": "/Users/bertinjacobs",
+  "author": {
+    "name": "Bertin Jacobs"
+  },
+  "bugs": {
+    "url": "https://github.com/Be2daErtin/homebridge-bvera/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "request": "^2.65.0"
+  },
+  "deprecated": false,
+  "description": "Vera plugin for homebridge: https://github.com/nfarina/homebridge",
+  "directories": {},
+  "dist": {
+    "shasum": "59b9ddfec51a524d4597a29bb25c92d1a0bc7060",
+    "tarball": "http://registry.npmjs.org/homebridge-http/-/homebridge-http-0.0.2.tgz"
+  },
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">=0.12.0"
+  },
+  "gitHead": "8871ee998f09cdef41ac81e33f7a1ba0df05b3bb",
+  "homepage": "https://github.com/Be2daErtin/homebridge-bvera/issues",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "license": "ISC",
+  "maintainers": [
+    {
+      "name": "Bertin",
+      "email": "bertinjacobs@gmail.com"
+    }
+  ],
+  "name": "homebridge-bvera",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Be2daErtin/homebridge-bvera.git"
+  },
+  "scripts": {},
+  "version": "0.1.1"
+}
